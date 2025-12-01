@@ -1,0 +1,2 @@
+../Core/Src/blink.c:19:6:blink	8	static
+../Core/Src/blink.c:26:6:HAL_GPIO_EXTI_Callback	16	static
